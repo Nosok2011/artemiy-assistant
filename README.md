@@ -15,3 +15,5 @@ pip install --upgrade requests
 7. Выключить режим отладки с помощью команды `debug_mode_off`
 8. Вывести помощь
 9. Выйти
+## Внимание!
+Для узнавания погоды нужен API-ключ для сайта weatherapi.com. Как получить и как пользоваться API: https://www.weatherapi.com/docs/
