@@ -1,14 +1,17 @@
 # Требования
 ```
-pip install json-with-comments
-pip install fuzzywuzzy
+pip install --upgrade json-with-comments
+pip install --upgrade fuzzywuzzy
+pip install --upgrade geopy
+pip install --upgrade requests
 ```
-# Возможности (1.0)
+# Возможности (1.1)
 1. Показать время
 2. Показать дату
-3. Отключить приветствие
-4. Включить приветствие
-5. Включить режим отладки с помощью команды `debug_mode_on`
-6. Выключить режим отладки с помощью команды `debug_mode_off`
-7. Вывести помощь
-8. Выйти
+3. Показать погоду
+4. Отключить приветствие
+5. Включить приветствие
+6. Включить режим отладки с помощью команды `debug_mode_on`
+7. Выключить режим отладки с помощью команды `debug_mode_off`
+8. Вывести помощь
+9. Выйти
