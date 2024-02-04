@@ -134,8 +134,8 @@
     },
     "settings": {
         "welcome_message_enabled": true,
-        "debug_mode": true,
-        "weather_api_key": "eb388506386344e1b32175306240302",
-        "currency_api_key": "cur_live_fIyWMKC7LrF8J5zaknPb952D0ilq79NDmNgw3lkq"
+        "debug_mode": false,
+        "weather_api_key": 0,
+        "currency_api_key": 0
     }
 }
