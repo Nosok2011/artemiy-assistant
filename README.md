@@ -16,4 +16,4 @@ pip install --upgrade requests
 8. Вывести помощь
 9. Выйти
 ## Внимание!
-Для узнавания погоды нужен API-ключ для сайта weatherapi.com. Как получить и как пользоваться API: https://www.weatherapi.com/docs/
+Для узнавания погоды нужен API-ключ для сайта weatherapi.com. Как его получить и как им пользоваться: https://www.weatherapi.com/docs/
