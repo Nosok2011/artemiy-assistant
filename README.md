@@ -19,4 +19,5 @@ pip install --upgrade currencyapicom
 10. Выйти
 ## Внимание!
 Для узнавания погоды нужен ключ API для сайта weatherapi.com. Как его получить и как им пользоваться: https://www.weatherapi.com/docs/
+
 Для узнавания курса валют нужен ключ API для сайта currencyapi.com. Как его получить и как им пользоваться: https://currencyapi.com/docs/quickstart
